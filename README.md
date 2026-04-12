@@ -81,14 +81,13 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Niroop8305?style=flat-square" height="28" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Niroop8305?style=flat-square" height="28" alt="Stars" />
-<img src="https://img.shields.io/github/commit-activity/m/Niroop8305/Niroop8305?style=flat-square" height="28" alt="Monthly Commit Activity" />
-<img src="https://img.shields.io/github/last-commit/Niroop8305/Niroop8305?style=flat-square" height="28" alt="Last Commit" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niroop8305&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph" />
+
+<img src="https://streak-stats.demolab.com?user=Niroop8305&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="GitHub Streak" />
 
 </div>
 
