@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=250&section=header&text=%3E_%20Niroop%20Papani&fontSize=60&fontColor=00ffaa&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" alt="Header" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=70a5fd&center=true&vCenter=true&width=500&height=50&lines=Initializing+workspace...;%3E+npm+run+dev;%3E+node+server.js;Building+scalable+systems...;Exploring+Generative+AI...;System+ready!" alt="Typing SVG" />
 <br/><br/>
 
 <a href="https://laxminiroop-papani.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -17,7 +18,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=400&height=250&lines=Initializing+workspace...;%3E+npm+run+dev;%3E+node+server.js;Building+scalable+systems...;Exploring+Generative+AI...;System+ready!" alt="Typing SVG" />
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Hacker GIF" width="90%" />
     </td>
     <td width="50%" valign="top">
       <h4><code>// profile.ts</code></h4>
@@ -32,10 +33,9 @@ const niroop = {
     "Machine Learning"
   ],
   exploring: [
-    "Deep Learning",
+    "Cloud Computing",
     "Scalable Architecture"
   ],
-  goal: "Crack top product-based companies!"
 };
 </pre>
     </td>
@@ -122,7 +122,7 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niroop8305&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph" />
 
-<img src="https://streak-stats.demolab.com?user=Niroop8305&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niroop8305&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="GitHub Streak" />
 
 </div>
 
