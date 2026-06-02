@@ -17,7 +17,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=400&height=250&lines=Initializing+workspace...;%3E+npm+run+dev;%3E+node+server.js;Building+scalable+systems...;Exploring+Generative+AI...;System+ready!+🚀" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=400&height=250&lines=Initializing+workspace...;%3E+npm+run+dev;%3E+node+server.js;Building+scalable+systems...;Exploring+Generative+AI...;System+ready!" alt="Typing SVG" />
     </td>
     <td width="50%" valign="top">
       <h4><code>// profile.ts</code></h4>
@@ -42,7 +42,7 @@ const niroop = {
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
@@ -66,7 +66,7 @@ const niroop = {
           <br><img src="https://skillicons.dev/icons?i=react&perline=2" alt="Frontend"/><br><br>
         </td>
         <td align="center" valign="top">
-          <br><img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend"/><br><br>
+          <br><img src="https://skillicons.dev/icons?i=nodejs,express,firebase&perline=2" alt="Backend"/><br><br>
         </td>
         <td align="center" valign="top">
           <br><img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" alt="Databases"/><br><br>
@@ -79,7 +79,7 @@ const niroop = {
   </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Projects
 
@@ -107,14 +107,14 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 
 **Tech:** React, Node.js, MongoDB, ML
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 Achievements
 
 - 🥇 Gold Medal — NASA Space Apps Hackathon (3D visualization for Near-Earth Objects using React, Node.js, Three.js)
 - 🏅 Best Innovation Award — CodeRush Hackathon (MERN crowdfunding platform for tech startups)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📈 GitHub Analytics
 
@@ -126,7 +126,7 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📫 Connect With Me
 
@@ -134,7 +134,7 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 - 📧 Email: nirooppapani8305@gmail.com
 - 🌐 Portfolio: https://laxminiroop-papani.vercel.app
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ⚡ Fun Fact
 
