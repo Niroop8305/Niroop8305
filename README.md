@@ -1,46 +1,77 @@
 <div align="center">
 
-# 👋 Hi, I'm Niroop Papani
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=250&section=header&text=%3E_%20Niroop%20Papani&fontSize=60&fontColor=00ffaa&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" alt="Header" />
 
-**B.Tech CSE (3rd year) | MERN Stack Developer | Java Enthusiast**
+<br/><br/>
 
-Aspiring Software Engineer exploring Machine Learning and Generative AI.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niroop-papani/)
-[![Email](https://img.shields.io/badge/Email-nirooppapani8305%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nirooppapani8305@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white)](https://laxminiroop-papani.vercel.app)
+<a href="https://laxminiroop-papani.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/niroop-papani/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nirooppapani8305@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
+<br/>
+
+## 👨‍💻 Profile Telemetry
+
+<table align="center" width="100%">
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="90%" />
+    </td>
+    <td width="60%" valign="top">
+      <h4><code>// profile.ts</code></h4>
+<pre lang="typescript">
+const niroop = {
+  name: "Niroop Papani",
+  role: "Software Engineer",
+  education: "B.Tech CSE (3rd Year)",
+  focus: [
+    "Full-stack Systems",
+    "Generative AI",
+    "Machine Learning"
+  ],
+  exploring: [
+    "Deep Learning",
+    "Scalable Architecture"
+  ],
+  goal: "Crack top product-based companies!"
+};
+</pre>
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working on: Full-stack projects and system design
-- 🌱 Learning: Machine Learning, Deep Learning, Generative AI
-- 💡 Interested in: Scalable systems and AI-powered applications
-- 🎯 Goal: Become a skilled Software Engineer and crack top product-based companies
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="38" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="38" alt="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="38" alt="HTML" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="38" alt="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="38" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="38" alt="Express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="38" alt="SQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="38" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="38" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="38" alt="VS Code" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="38" alt="Postman" />
+<h3><code>{ Languages }</code></h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css" alt="Languages"/>
+</p>
+
+<h3><code>{ Frontend & UI }</code></h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="Frontend"/>
+</p>
+
+<h3><code>{ Backend & APIs }</code></h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
+</p>
+
+<h3><code>{ Databases }</code></h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+</p>
+
+<h3><code>{ Tools & Environment }</code></h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
+</p>
 
 </div>
 
