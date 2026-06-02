@@ -42,7 +42,7 @@ const niroop = {
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70a5fd&height=4" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
@@ -79,7 +79,7 @@ const niroop = {
   </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70a5fd&height=4" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Projects
 
@@ -107,14 +107,14 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 
 **Tech:** React, Node.js, MongoDB, ML
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70a5fd&height=4" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 Achievements
 
 - 🥇 Gold Medal — NASA Space Apps Hackathon (3D visualization for Near-Earth Objects using React, Node.js, Three.js)
 - 🏅 Best Innovation Award — CodeRush Hackathon (MERN crowdfunding platform for tech startups)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70a5fd&height=4" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📈 GitHub Analytics
 
@@ -126,7 +126,7 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70a5fd&height=4" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📫 Connect With Me
 
@@ -134,7 +134,7 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 - 📧 Email: nirooppapani8305@gmail.com
 - 🌐 Portfolio: https://laxminiroop-papani.vercel.app
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70a5fd&height=4" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ⚡ Fun Fact
 
