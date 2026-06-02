@@ -16,10 +16,10 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="90%" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=400&height=250&lines=Initializing+workspace...;%3E+npm+run+dev;%3E+node+server.js;Building+scalable+systems...;Exploring+Generative+AI...;System+ready!+🚀" alt="Typing SVG" />
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h4><code>// profile.ts</code></h4>
 <pre lang="typescript">
 const niroop = {
@@ -47,32 +47,36 @@ const niroop = {
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
-<h3><code>{ Languages }</code></h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css" alt="Languages"/>
-</p>
-
-<h3><code>{ Frontend & UI }</code></h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="Frontend"/>
-</p>
-
-<h3><code>{ Backend & APIs }</code></h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
-</p>
-
-<h3><code>{ Databases }</code></h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
-</p>
-
-<h3><code>{ Tools & Environment }</code></h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
-</p>
-
+  <table align="center" width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="20%"><b>Languages</b></th>
+        <th align="center" width="20%"><b>Frontend</b></th>
+        <th align="center" width="20%"><b>Backend</b></th>
+        <th align="center" width="20%"><b>Databases</b></th>
+        <th align="center" width="20%"><b>Tools</b></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" valign="top">
+          <br><img src="https://skillicons.dev/icons?i=java,c,js,html,css&perline=2" alt="Languages"/><br><br>
+        </td>
+        <td align="center" valign="top">
+          <br><img src="https://skillicons.dev/icons?i=react&perline=2" alt="Frontend"/><br><br>
+        </td>
+        <td align="center" valign="top">
+          <br><img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend"/><br><br>
+        </td>
+        <td align="center" valign="top">
+          <br><img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" alt="Databases"/><br><br>
+        </td>
+        <td align="center" valign="top">
+          <br><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=2" alt="Tools"/><br><br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
