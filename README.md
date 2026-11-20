@@ -122,7 +122,7 @@ Retail analytics for Walmart with ML-driven trend analysis, dynamic pricing opti
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niroop8305&amp;theme=tokyo-night&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niroop8305&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niroop8305&amp&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="GitHub Stats" />
 
 </div>
 
